@@ -8,12 +8,15 @@
 🌱 Aprendiz da linguagem python e R.
 
 
+# Meu Perfil no GitHub
+
 ## 🔥 Minhas estatísticas:
 
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FrancieliJorge&show_icons=true&theme=radical)
 
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancieliJorge&layout=compact&theme=radical)
 
 ## Conecte-se comigo:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-seu%20nome%20de%20usuario-blue)](https://https://www.linkedin.com/in/francielijorge/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Francieli%20Jorge-blue)](https://www.linkedin.com/in/francielijorge/)
+
