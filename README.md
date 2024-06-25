@@ -1,20 +1,17 @@
 ### Olá 👋
 
-
 🔭 Atualmente sou aluna de mestrado do INPE.
 
 ⛈️ Trabalho com a avaliação do modelo BAM-1.2 na representação de nuvens do tipo ZCAS na escala sub-sazonal.
 
-🌱 Aprendiz da linguagem python e R.
-
-
-# Meu Perfil no GitHub
+🌱 Aprendiz das linguagens Python e R.
 
 ## 🔥 Minhas estatísticas:
 
-![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FrancieliJorge&show_icons=true&theme=radical)
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=FrancieliJorge&show_icons=true&theme=tokyonight)
 
-![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancieliJorge&layout=compact&theme=radical)
+![Linguagens Mais Utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancieliJorge&layout=compact&theme=tokyonight)
+
 
 ## Conecte-se comigo:
 
