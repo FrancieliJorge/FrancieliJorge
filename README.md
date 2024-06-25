@@ -6,9 +6,9 @@
 
 🌱 Aprendiz das linguagens Python e R.
 
-💬 Pergunte-me sobre: Modelagem atmosférica, análise de dados climáticos, Python, R.
+💬 Pergunte-me sobre: Meteorologia, análise de dados climáticos, Python, R.
 
-📫 Como me encontrar: [francielijorge@gmail.com](mailto:francielijorge@gmail.com)
+📫 Como me encontrar: [francieli.jorge@inpe.br](mailto:francieli.jorge@inpe.br)
 
 ---
 
@@ -32,12 +32,6 @@
 ## 📈 Contribuições:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrancieliJorge&theme=tokyonight)
-
----
-
-## 🎥 Apresentações:
-
-![Gif de Apresentação](https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif)
 
 ---
 
